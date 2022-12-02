@@ -29,7 +29,7 @@
 
 <li>📫 Reach me at <a href="mailto:ahsansayeedsaad@gmail.com">ahsansayeedsaad@gmail.com</a></li>
 <li>🥳 Fun fact about me that I never found what's the fun fact about me.</li>
-<li>👯 I’m currently open for work. But I always hate time killing job, Time is most valuable.</li>
+<li>👯 I’m currently open for work.</li>
 </ul>
 
 <br />
