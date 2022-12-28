@@ -55,7 +55,7 @@
 <br />
 
 ### Used Languages
-<p align="">
+<p align="" style="margin:auto">
     <a href="">
         <img title="Get streak stats for your profile at git.io/streak-stats" alt="Ahsan-Sayeed's streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan-Sayeed&theme=react&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117"/>
     </a>
