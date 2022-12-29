@@ -57,7 +57,7 @@
 ### Used Languages
 <p align="center">
     <a href="">
-        <img title="Get streak stats for your profile at git.io/streak-stats" alt="Ahsan-Sayeed's streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan-Sayeed&theme=react&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117"/>
+        <img title="Get streak stats for your profile at git.io/streak-stats" alt="Ahsan-Sayeed's streak" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan-Sayeed&theme=react&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117&langs_count=6"/>
     </a>
 </p>
 
