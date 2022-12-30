@@ -48,7 +48,7 @@
 ### Stats
 <p align="center">
     <a href="">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ahsan-Sayeed's streak" src="https://github-readme-stats.vercel.app/api?username=Ahsan-Sayeed&theme=darcula&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ahsan-Sayeed's streak" src="https://github-readme-stats.vercel.app/api?username=Ahsan-Sayeed&theme=darcula&show_icons=true&hide_border=true&count_private=true&bg_color=0D1118"/>
     </a>
 </p>
 
