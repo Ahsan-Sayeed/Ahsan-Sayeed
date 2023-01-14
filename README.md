@@ -40,7 +40,7 @@
 ### Numbers
 <p align="center">
     <a href="">
-        <img title="🔥 GitHub status git.io/streak-stats" alt="Ahsan-Sayeed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsan-Sayeed&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
+        <img title="🔥 GitHub status git.io/streak-stats" alt="Ahsan-Sayeed's streak" src="https://github-readme-stats.vercel.app/api?username=Ahsan-Sayeed&show_icons=true&theme=radical"/>
     </a>
 </p>
 
