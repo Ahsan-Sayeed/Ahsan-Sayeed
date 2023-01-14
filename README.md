@@ -37,7 +37,7 @@
 <br/>
 <br />
 
-### Numbers
+### Stats
 <p align="center">
     <a href="">
         <img title="🔥 GitHub status git.io/streak-stats" alt="Ahsan-Sayeed's streak" src="https://github-readme-stats.vercel.app/api?username=Ahsan-Sayeed&theme=darcula&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117"/>
@@ -45,10 +45,10 @@
 </p>
 
 
-### Stats
+### Numbers
 <p align="center">
     <a href="">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ahsan-Sayeed's streak" src="https://github-readme-stats.vercel.app/api?username=Ahsan-Sayeed&theme=darcula&show_icons=true&hide_border=true&count_private=true&bg_color=0D1118"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ahsan-Sayeed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsan-Sayeed&theme=darcula&hide_border=true"/>
     </a>
 </p>
 
