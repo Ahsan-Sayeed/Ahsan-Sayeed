@@ -48,7 +48,7 @@
 ### Numbers
 <p align="center">
     <a href="">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ahsan-Sayeed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsan-Sayeed&theme=darcula&hide_border=true"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ahsan-Sayeed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsan-Sayeed&theme=tokyonight&hide_border=true"/>
     </a>
 </p>
 
